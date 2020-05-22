@@ -1,3 +1,5 @@
+傻子也会用的洪水攻击软件，只需输入网址即可开始
+
 因为本人比较懒，就没发运行环境，剩下的库自己安装，使用:
 pip install pywin32
 pip install wxpython
